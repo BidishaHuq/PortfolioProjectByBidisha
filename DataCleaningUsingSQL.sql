@@ -1,6 +1,8 @@
 /*
 
 Cleaning Data in SQL Queires
+Some of the tasks: standardize date format, breaking out address into indivual columns (address, city, state),  
+implying data validation, remove unnecassary data and remove unused columns and duplicates
 
 */
 
